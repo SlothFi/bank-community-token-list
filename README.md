@@ -1,7 +1,7 @@
-# @VenomProtocol/venomswap-community-token-list
+# @SlothFi/bank-community-token-list
 
-[![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/VenomProtocol/venomswap-community-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@VenomProtocol/venomswap-community-token-list)](https://unpkg.com/@VenomProtocol/venomswap-community-token-list@latest/)
+[![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/SlothFi/bank-community-token-list/actions?query=workflow%3ATests)
+[![npm](https://img.shields.io/npm/v/@SlothFi/bank-community-token-list)](https://unpkg.com/@SlothFi/bank-community-token-list@latest/)
 
 This NPM module and GitHub repo contains the default token list used in the Uniswap interface.
 
