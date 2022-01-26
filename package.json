@@ -1,7 +1,7 @@
 {
   "name": "@slothfi/bank-community-token-list",
   "version": "2.5.0",
-  "description": "◦ The Defimons bank default token list",
+  "description": "◦ The DeFimons bank default token list",
   "main": "build/bank-community.tokenlist.json",
   "scripts": {
     "test": "mocha",
